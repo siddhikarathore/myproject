@@ -1,4 +1,4 @@
 # myproject
-Author - Siddhika Rathore
+Author - Siddhika Rathore(JIET)
 <br>
 Hello!!!
